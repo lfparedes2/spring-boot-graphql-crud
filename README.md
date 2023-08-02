@@ -1,5 +1,5 @@
 # spring-boot-graphql-crud
-Crud realizado con spring boot h2 y garphql java 17
+Crud realizado con spring boot h2 y graphql java 17
 consumo:
 
 1.- listar (http://localhost:8090/graphiql?path=/graphql)
